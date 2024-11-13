@@ -1,0 +1,15 @@
+__pycache__/
+*.pyc
+.env
+venv/
+.DS_Store
+
+# Ignore Python virtual environment directories
+fitcal/lib/
+
+# Ignore package distribution directories
+dist/
+build/
+
+# Ignore Python egg files
+*.egg-info/
